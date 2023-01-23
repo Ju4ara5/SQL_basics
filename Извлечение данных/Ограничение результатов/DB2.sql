@@ -1,0 +1,3 @@
+SELECT Name
+FROM country
+FETCH FIRST 5 ROWS ONLY
